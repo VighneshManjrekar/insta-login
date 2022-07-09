@@ -18,7 +18,7 @@ Rename "config/.env.env" to "config/.env" and update the values to your own.
 ## Install Dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 ## Run App
